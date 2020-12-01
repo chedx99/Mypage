@@ -1,0 +1,48 @@
+head {
+    font-style: oblique;
+}
+
+body{
+    font-style: normal;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    background-color: burlywood;
+    background-blend-mode: multiply;
+
+}
+
+.Menu {
+
+    font-family: sans-serif;
+    overflow: hidden;
+    background-color: brown;
+}
+
+.Menu a{
+    float: inline-end;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.Menu a:hover {
+    background-color: black;
+  }
+
+canvas{
+    font-weight: bolder;
+    vertical-align: baseline;
+    align-self: center;
+    align-content: center;
+    
+    
+}
+
+.divHDr{
+    overflow: hidden;
+    align-items: center;
+
+}
+
